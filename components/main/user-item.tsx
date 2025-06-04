@@ -7,7 +7,7 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from '@/components/ui/dropdown-menu';
-import { SignOutButton, useUser } from '@clerk/clerk-react';
+import { SignOutButton, useUser } from '@clerk/nextjs';
 import { DropdownMenuItem } from '@radix-ui/react-dropdown-menu';
 import { ChevronsLeftRightIcon } from 'lucide-react';
 
