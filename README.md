@@ -1,4 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Organikk
+
+Organikk is a modern note-taking and document management application inspired by Notion. It features real-time collaboration, a powerful editor, and a flexible document structure, making it perfect for both personal and team productivity.
+
+## Tech Stack
+
+- **Next.js** – React framework for server-side rendering and static site generation
+- **Convex** – Real-time database and backend
+- **Clerk** – Authentication and user management
+- **Edgestore** – File storage and management
+
+## Key Features
+
+- **Real-time database** 🔗
+- **Notion-style editor** 📝
+- **Light and Dark mode** 🌓
+- **Infinite children documents** 🌲
+- **Trash can & soft delete** 🗑️
+- **Authentication** 🔐
+- **File upload**
+- **File deletion**
+- **File replacement**
+- **Icons for each document (real-time updates)** 🌠
+- **Expandable sidebar** ➡️🔀⬅️
+- **Full mobile responsiveness** 📱
+- **Publish your note to the web** 🌐
+- **Fully collapsable sidebar** ↕️
+- **Landing page** 🛬
+- **Cover image for each document** 🖼️
+- **Recover deleted files** 🔄📄
 
 ## Getting Started
 
