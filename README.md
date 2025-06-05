@@ -29,6 +29,12 @@ Organikk is a modern note-taking and document management application inspired by
 - **Cover image for each document** 🖼️
 - **Recover deleted files** 🔄📄
 
+## Acknowledgements
+
+This project is built by following a tutorial on YouTube and a GitHub repo. For more information, check out these resources:
+
+[YouTube Tutorial](https://www.youtube.com/watch?v=0OaDyjB9Ib8)
+
 ## Getting Started
 
 First, run the development server:
